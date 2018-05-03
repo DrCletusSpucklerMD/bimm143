@@ -1,6 +1,9 @@
 ---
 title: "Cancer"
-output: html_document
+author: Helena Tubb
+output: 
+  html_document:
+      keep_md: yes
 ---
 
 ##Part A: Loading Data
