@@ -5,5 +5,4 @@ Available markdown files include:
 
 -[Class 9](https://github.com/DrCletusSpucklerMD/bimm143/blob/master/BIMM_143/MiniLab_Lecture_9/Cancer.Rmd)
 
-
 -[Class 12](https://github.com/DrCletusSpucklerMD/bimm143/blob/master/Class12/class12.md)
