@@ -4,4 +4,4 @@ This is my classwork for BIMM 143 Bioinformatics class from UC San Diego SP18. F
 Available markdown files include: 
 
 -[Class 9](https://github.com/DrCletusSpucklerMD/bimm143/blob/master/BIMM_143/MiniLab_Lecture_9/Cancer.Rmd)
--[Class 12] (https://github.com/DrCletusSpucklerMD/bimm143/blob/master/Class12/class12.md)
+-[Class 12](https://github.com/DrCletusSpucklerMD/bimm143/blob/master/Class12/class12.md)
